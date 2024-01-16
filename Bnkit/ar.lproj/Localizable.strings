@@ -1,0 +1,509 @@
+/* 
+  Localizable.strings
+  Bnkit
+
+  Created by Mahmoud Tawab on 2/20/21.
+  Copyright © 2021 Mahmoud Tawab. All rights reserved.
+*/
+
+
+"lang" = "ar";
+
+"ErrorApi" = "حدث خطأ ما أثناء معالجة طلبك ، يرجى المحاولة مرة أخرى في وقت لاحق";
+
+"back" = "الى الخلف";
+
+"Delete" = "حذف";
+
+"Edit" = "تعديل";
+
+"EGP" = "جنية";
+
+"KeepService" = "استمر في المحادثة";
+
+"EndService" = "نهاية المحادثة";
+
+"NUMBEROFPAYMENTS" = "عدد المدفوعات / الأشهر";
+
+"MONTHLYPAYMENT" = "الدفع الشهري";
+
+"LOANAMOUNT" = "مبلغ القرض";
+
+"HOME" = "الصفحة الرئيسية";
+
+"GO HOME" = "اذهب للصفحة الرئيسية";
+
+"LOGIN" = "تسجيل دخول";
+
+"WELCOME" = "أهلا بك!";
+
+"NEWSUPDATES" = "الأخبار والتحديثات";
+
+"MOBADRA" = "موبادرا";
+
+"E-Mail" = "البريد الإلكتروني";
+
+"Password" = "كلمة المرور";
+
+"SignUp" = "سجل حساب";
+
+"ForgotPassword" = "هل نسيت كلمة السر؟";
+
+"PROFILE" = "الملف الشخصي";
+
+"REQUESTFINANCE" = "طلب التمويل";
+
+"OFFERS" = "عروض";
+
+"OFFERDETAILS" = "تفاصيل العرض";
+
+"FULLWEBSITE" = "الموقع الكامل";
+
+"PRODUCTS & SERVICES" = "المنتجات والخدمات";
+
+"INSTALLMENTCALCULATOR" = "حاسبة\nالقسط";
+
+"ABOUTUS" = "معلومات عنا";
+
+"INVESTMENTOPPORTUNITIES" = "فرص\nالاستثمار";
+
+"Settings" = "إعدادات";
+
+"MyAccount" = "حسابي";
+
+"Language" = "لغة : ";
+
+"Share" = "مشاركة";
+
+"AboutUS" = "معلومات عنا";
+
+"HELP" = "مساعدة";
+
+"SignOut" = "خروج";
+
+"CONTACTUS" = "اتصل بنا";
+
+"CallUS" = "اتصل بنا";
+
+"LEAVEMESSAGE" = "ترك رسالة";
+
+"CHAT" = "محادثة";
+
+"It can't be empty" = "لا يمكن أن تكون فارغة";
+
+"SOCIALMEDIA" = "وسائل الاعلام الاجتماعية";
+
+"OFFICEADDRESS" = "عنوان المكتب";
+
+"Okey" = "حسنا";
+
+"Cancel" = "إلغاء";
+
+"LOGOUT" = "تسجيل خروج";
+
+"BnkitApp" = "تطبيق بنك ات";
+
+"Help" = "مساعدة";
+
+"FirstName" = "الاسم الاول";
+
+"LastName" = "الاسم الاخير";
+
+"SAVE" = "حفظ";
+
+"*Salary" = "*مرتب";
+
+"*Utility Bill" = "* فاتورة مرافق";
+
+"*Bank Statement" = "*كشف حساب بنكى";
+
+"*HR Letter / Self Employed" = "*خطاب الموارد البشرية / صاحب العمل";
+
+"UploadImage" = "تحميل الصوره";
+
+"ErrorLogIn" = "يرجى العودة لتسجيل الدخول";
+
+"CHANGEPASSWORD" = "تغيير كلمة المرور";
+
+"OldPassword" = "كلمة المرور القديمة";
+
+"NewPassword" = "كلمة السر الجديدة";
+
+"ConfirmNewPassword" = "تأكيد كلمة المرور الجديدة";
+
+"RESET" = "إعادة تعيين";
+
+"CUSTOMERSERVICE" = "خدمة العملاء";
+
+"Camera" = "كاميرا";
+
+"Photo" = "صورة";
+
+"Video" = "فيديو";
+
+"TypeYourMessage" = "  اكتب رسالتك هنا…";
+
+"InternetNotAvailable" = "اتصال الإنترنت غير متوفر!";
+
+"Today" = "اليوم";
+
+"Yesterday" = "أمس";
+
+"ServicesHistory" = "تاريخ خدمات العملاء";
+
+"LEAVEAMESSAGE" = "ترك رسالة";
+
+"Name" = "الاسم";
+
+"Phone" = "رقم الهاتف";
+
+"Email" = "بريد الالكتروني";
+
+"YourMessageHere" = "رسالتك هنا";
+
+"SEND" = "إرسال";
+
+"RESETPASSWORD" = "إعادة تعيين كلمة المرور";
+
+"EnteryourE-Mail" = "أدخل بريدك الإلكتروني";
+
+"CALCULATOR" = "آلة حاسبة";
+
+"LoanType" = "نوع القرض";
+
+"LoanPeriod" = "فترة القرض (سنوات)";
+
+"IncomeType" = "نوع الدخل";
+
+"NetIncome" = "صافي الدخل (شهري)";
+
+"LoanAmount" = "مبلغ القرض (٠٠،٠٠٠،٠٠٠)";
+
+"CALCULAT" = "حساب";
+
+"CALCULATORDETAILS" = "تفاصيل الآلة الحاسبة";
+
+"REQUESTHISTORY" = "تاريخ الطلبات";
+
+"DELETEREQUEST" =  "حذف طلب";
+
+"MassageRequest" = "هل أنت متأكد أنك تريد\nحذف هذا الطلب";
+
+"REQUESTID" = "معرف طلب : ";
+
+"REQUESTSTATUS" = "حالة الطلب : ";
+
+"NOTE" = "ملاحظة : ";
+
+"This request cannot be modified" = "لا يمكن تعديل هذا الطلب";
+
+"PRODUCTINTERESTED" = "المنتج مهتم : ";
+
+"COMMENTS" = "تعليقات : ";
+
+"RESPONSETIME" = "وقت الاستجابة : ";
+
+"MONTHLYINCOME" = "الدخل الشهري : ";
+
+"AMOUNT" = "مقدار : ";
+
+"MYjOB"  = "عملي : ";
+
+"ISLAMIC" = "الإسلامية : ";
+
+"Yes" = "نعم";
+
+"No" = "لا" ;
+
+"PREFERREDBANK" = "البنك المفضل : ";
+
+"CREATEACCOUNT" = "إنشاء حساب";
+
+"PasswordConfirm" = "تأكيد كلمة المرور";
+
+"IDNo" = "رقم بطاقة الهوية.";
+
+"FrontID" = "وجة البطاقة";
+
+"BackID" = "ظهر البطاقة";
+
+"AcceptAgreement" = "أقبل اتفاقية المستخدم.";
+
+"AGREEMENT" = "اتفاقية المستخدم";
+
+"NewMessage" = "لقد تلقيت رسالة جديدة";
+
+"MessageRead" = "تمت قراءة الرسالة";
+
+"NOTIFICATIONS" = "إشعارات";
+
+"DELETENOTIFICATION" = "حذف الإخطار";
+
+"MassageNotification"  = "هل أنت متأكد أنك تريد\nحذف هذا الإخطار";
+
+"VERFICIATION" = "رمز التحقق";
+
+"ResendCode" = "أعد إرسال الرمز";
+
+"Wait" = "انتظر";
+
+"ResendSMS" = "ثواني لإعادة إرسال الرسائل القصيرة";
+
+"PERSONAL" = "الشخصية";
+
+"insurance" = "تأمين";
+
+"SME&MICRO" = "الشركات الصغيرة\n والمتوسطة \nوالمتناهية الصغر";
+
+"SMALLBUSINESS" = "قرض أعمال\nصغير";
+
+"SMALLBUSINESSOWNER" = "قرض\nمالك\nالأعمال\nالصغيرة";
+
+"WORKINGCAPITALFINANCE" = "تمويل رأس\nالمال العامل";
+
+"Other" = "آخر";
+
+"AccidentHealth" = "صحة الحوادث";
+
+"Medical" = "طبي";
+
+"Cars" = "سيارات";
+
+"life" = "الحياة";
+
+"FirePropertyInsurance" = "الحريق \nوالممتلكات \nوالتأمين";
+
+"marinetransport" = "النقل البحري";
+
+"SavingsNvestments" = "استثمارات التوفير";
+
+"CASHLOAN" = "القروض النقدية";
+
+"NEWCARLOAN" = "قرض سيارة\nجديد";
+
+"USEDCARLOAN" = "قرض السيارة\nالمستعملة";
+
+"REALESTATELOAN" = "القرض\nالعقاري";
+
+"WEDDINGDAY" =  "يوم\nالزفاف";
+
+"REALESTATEFINISHINGS" = "تشطيبات\nعقارية";
+
+"MEDICALSERVICES" = "الخدمات\nالطبية";
+
+"TOURISMAIRLINETICKETS" = "تذاكر السفر\nوالطيران";
+
+"DOCTORLOAN" = "قرض\nالطبيب";
+
+"CLUBMEMBERSHIP" = "عضوية\nالنادي";
+
+"EDUCATIONLOAN" = "قرض\nالتعليم";
+
+"DURABLEGOODS" = "بضاعة\nتتحمل";
+
+"CREDITCARDS" = "بطاقات الائتمان \nوالساعات الذكية";
+
+"OVERDRAFT" = "الزائدة";
+
+"ADDREQUEST" = "اضافة طلب";
+
+"UPDATEREQUEST" = "تحديث الطلب";
+
+"EMPLOYMENTTYPE" = "نوع الوظيفة : ";
+
+"EmploymentType" = "نوع الوظيفة*";
+
+"MonthlyIncome" = "الدخل الشهري*";
+
+"RequestedAmount" = "الكمية المطلوبة*";
+
+"REQUESTEDAMOUNT" = "الكمية المطلوبة : ";
+
+"COVERAGEAMOUNT" = "مبلغ التغطية : ";
+
+"CoverageAmount" = "مبلغ التغطية *";
+
+"RequestedInvestmentAmount" = "مبلغ الاستثمار المطلوب*";
+
+"PREFERREDCOMPANY" = "الشركة المفضلة : ";
+
+"PreferredCompany" = "الشركة المفضلة";
+
+"MobadraType" = "نوع المبادرة";
+
+"MOBADRATYPE" = "نوع المبادرة : ";
+
+"Islamic" = "مسلم؟";
+
+"StartUp" = "بدء؟";
+
+"STARTUP" = "بدء : ";
+
+"CORPORATE" = "شركة كبرى : ";
+
+"Corporate" = "شركة كبرى؟";
+
+"Products Interested in the Future" = "المنتجات المهتمة في المستقبل";
+
+"Preferred Bank/Company" = "البنك / الشركة المفضلة";
+
+"ServiceType" = "نوع الخدمة؟";
+
+"SERVICETYPE" = "نوع الخدمة : ";
+
+"Legal" = "قانوني";
+
+"Financial" = "الأمور المالية";
+
+"UploadFiles" = "تحميل الملفات";
+
+"Comments" = "تعليقات";
+
+"INTERESTEDIN" = "مهتم ب :";
+
+"ProductInterestedIn" = "المنتج المهتم*";
+
+"OtherProductsInterestedIn" = "المنتجات الأخرى المهتمة";
+
+"TryAgain" = "حاول مجددا";
+
+"NEWS" = "الإخبارية";
+
+"UPDATES" = "التحديثات";
+
+"SUBMIT" = "إرسال";
+
+"IAgreeTo" = "أوافق على ";
+
+"UserAgreement" = "اتفاقية المستخدم";
+
+"E-mail*" = "بريد الالكتروني*";
+
+"FullName" = "الاسم كامل*";
+
+"MobileNo" = "رقم المحمول*";
+
+"E-MAIL" = "البريد الإلكتروني : ";
+
+"FULLNAME" = "الاسم الكامل : ";
+
+"MOBILENO" = "رقم الموبايل : ";
+
+"BRIEF" = "مختصر : ";
+
+"ProjectBrief" = "موجز المشروع*";
+
+"InvestmentAmount" = "مبلغ الاستثمار*";
+
+"INVESTMENTAMOUNT" = "مبلغ الاستثمار : ";
+
+"Provider" = "مزود  :";
+
+"About" = "حول  :";
+
+"Required" = "مطلوب  :";
+
+"Agreement" = "اتفاق  :";
+
+"Rating" = "تقييم  :";
+
+"ExpectedDay" = "اليوم المتوقع  :";
+
+"LoanMax" = "الحد الأقصى للقرض  :";
+
+"LoanMin" = "الحد الأدنى للقرض  :";
+
+"INVESTOR" = "مستثمر";
+
+"PARTNERSHIPAPPLICANT" = "مقدم طلب\nالشراكة";
+
+"ACQUISITIONAPPLICANT" = "طالب\nاكتساب";
+
+"Partnership" = "شراكة*";
+
+"PARTNERSHIP" = "شراكة : ";
+
+"InvestmentBudget" = "ميزانية الاستثمار *";
+
+"INVESTMENTBUDGET" = "ميزانية الاستثمار : ";
+
+"Investment interested in" = "الاستثمار مهتم بـ *";
+
+"SERVICES" = "خدمات";
+
+"PRODUCTS" = "منتجات";
+
+"I-SCORE" = "نتيجة";
+
+"LENGTHOFBUSINESS" = "طول العمل : ";
+
+"LengthOfBusiness" = "طول العمل";
+
+"LengthOfBusiness*" = "طول العمل*";
+
+"POS" = "نقاط البيع";
+
+"ACCOUNTS&DEPOSIT" = "الحساب \nوالإيداع";
+
+"INSURANCEPOLICY" = "بوليصة\n التأمين";
+
+"LEGALFINANCIALCONSULTANT" = "مستشار قانوني\nومالي";
+
+"Save" = "حفظ";
+
+"PHOTOLIBRARY" = "مكتبة الصور";
+
+"SavedSuccessfully" = "تم الحفظ بنجاح";
+
+"ErrorOldPassword" = "رقم كلمة المرور القديمة الذي تم إدخاله غير صالح";
+
+"PleaseCheckYourEmail" = "يرجى التحقق من بريدك الإلكتروني\nلتغيير كلمة المرور الخاصة بك";
+
+"FillInInformationCorrectly" = "يرجى ملء المعلومات بشكل صحيح";
+
+"ErrorEmail" = "الرجاء إدخال البريد الإلكتروني الخاص بك بشكل صحيح";
+
+"ErrorPhone" = "رقم الهاتف غير صحيح";
+
+"PhoneNumberIsUsed" = "رقم الهاتف قيد الاستخدام بالفعل";
+
+"ErrorUserAgreement" = "الرجاء قبول اتفاقية المستخدم";
+
+"ErrorFirstAndLastName" = "الرجاء إدخال اسمك الأول واسم العائلة";
+
+"ErrorPasswordCorrectly" = "الرجاء إدخال كلمة المرور بشكل صحيح";
+
+"EmailIsUsed" = "البريد الالكتروني قيد الاستخدام بالفعل";
+
+"ErrorVerification" = "رقم التحقق الذي تم إدخاله غير صحيح";
+
+"NoChanges" = "لا يوجد تغيير في البيانات";
+
+"ErrorNetIncome" = "الدخل الشهري أكبر من المسموح به ؟";
+
+"ErrorLoanAmount" = "مبلغ القرض أكبر من المبلغ المسموح به ؟";
+
+"ErrorID" = "الرجاء إدخال رقم الهوية بشكل صحيح";
+
+"AddRequest" = "مجموعة واسعة من برامج التمويل الشخصي التي تلبي معظم احتياجات العملاء بما يتناسب مع دخلك واحتياجاتك.";
+
+"Legal & Financial Consultant" = "مجموعة واسعة من البرامج القانونية والمالية التي تلبي معظم احتياجات العملاء بما يتناسب مع دخلك واحتياجاتك.";
+
+"PartnershipApplicant" = "مجموعة كبيرة من البرامج الاستثمارية التي تلبي معظم احتياجات العملاء بما يتناسب مع دخلك واحتياجاتك.";
+
+"ErrorFiles" = "عذرا ، الملف كبير جدا";
+
+"Select your country" = "اختر بلدك";
+
+
+///  StatusCodes
+ 
+"No Content" = "لا يوجد محتوى";
+
+"Bad Request" = "اقتراح غير جيد";
+
+"Unauthorized" = "غير مصرح";
+
+"Not Found" = "لم يتم العثور";
+
+"ErrorLogIn" = "يجب عليك تسجيل الدخول أولا هل تؤيد الذهاب إلى شاشة تسجيل الدخول";

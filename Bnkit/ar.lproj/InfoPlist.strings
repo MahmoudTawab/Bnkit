@@ -1,0 +1,15 @@
+/* 
+  InfoPlist.strings
+  Bnkit
+
+  Created by Mahmoud Tawab on 2/19/21.
+  Copyright © 2021 Mahmoud Tawab. All rights reserved.
+*/
+
+
+
+"CFBundleDisplayName" = "بنك ات";
+
+"CFBundleName" = "بنك ات";
+
+

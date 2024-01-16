@@ -1,0 +1,509 @@
+/* 
+  Localizable.strings
+  Bnkit
+
+  Created by Mahmoud Tawab on 2/20/21.
+  Copyright © 2021 Mahmoud Tawab. All rights reserved.
+*/
+
+
+"lang" = "en";
+
+"back" = "back";
+
+"ErrorApi" = "Something went wrong while processing your request, please try again later";
+
+"Delete" = "Delete";
+
+"Edit" = "Edit";
+
+"EGP" = "EGP";
+
+"KeepService" = "Keep Service";
+
+"EndService" = "End Service";
+
+"NUMBEROFPAYMENTS" = "NUMBER OF PAYMENTS/MONTHS";
+
+"MONTHLYPAYMENT" = "MONTHLY PAYMENT";
+
+"LOANAMOUNT" = "LOAN AMOUNT";
+
+"HOME" = "HOME";
+
+"GO HOME" = "GO HOME";
+
+"LOGIN" = "LOG IN";
+
+"NEWSUPDATES" = "NEWS & UPDATES";
+
+"MOBADRA" = "MOBADRA";
+
+"WELCOME" = "WELCOME!";
+
+"E-Mail" = "E-Mail";
+
+"Password" = "Password";
+
+"SignUp" = "Sign up";
+
+"ForgotPassword" = "Forgot Password?";
+
+"PROFILE" = "PROFILE";
+
+"REQUESTFINANCE" = "REQUEST FINANCE";
+
+"OFFERS" = "OFFERS";
+
+"OFFERDETAILS" = "OFFER DETAILS";
+
+"FULLWEBSITE" = "FULL WEBSITE";
+
+"PRODUCTS & SERVICES" = "PRODUCTS & SERVICES";
+
+"INSTALLMENTCALCULATOR" = "INSTALLMENT\nCALCULATOR";
+
+"ABOUTUS" = "ABOUT US";
+
+"INVESTMENTOPPORTUNITIES" = "INVESTMENT\nOPPORTUNITIES";
+
+"Settings" = "SETTINGS";
+
+"MyAccount" = "My Account";
+
+"Language" = "Language : ";
+
+"Share" = "Share";
+
+"AboutUS" = "About US";
+
+"HELP" = "HELP";
+
+"SignOut" = "Sign Out";
+
+"CONTACTUS" = "CONTACT US";
+
+"CallUS" = "CALL US";
+
+"LEAVEMESSAGE" = "LEAVE A MESSAGE";
+
+"CHAT" = "CHAT";
+
+"SOCIALMEDIA" = "SOCIAL MEDIA";
+
+"OFFICEADDRESS" = "OFFICE ADDRESS";
+
+"Okey" = "Okey";
+
+"It can't be empty" = "It can't be empty";
+
+"Cancel" = "Cancel";
+
+"LOGOUT" = "LOG OUT";
+
+"BnkitApp" = "Bnkit";
+
+"Help" = "Help";
+
+"FirstName" = "First Name";
+
+"LastName" = "Last Name";
+
+"SAVE" = "SAVE";
+
+"CHANGEPASSWORD" = "CHANGE PASSWORD";
+
+"OldPassword" = "Old Password";
+
+"NewPassword" = "New Password";
+
+"ConfirmNewPassword" = "Confirm New Password";
+
+"RESET" = "RESET";
+
+"CUSTOMERSERVICE" = "CUSTOMER SERVICE";
+
+"TryAgain" = "Try Again";
+
+"Camera" = "Camera";
+
+"Photo" = "Photo";
+
+"Video" = "Video";
+
+"TypeYourMessage" = "Type Your Message Here…";
+
+"InternetNotAvailable" = "Internet Connection not Available!";
+
+"Today" = "Today";
+
+"Yesterday" = "Yesterday";
+
+"ServicesHistory" = "Customers Services History";
+
+"LEAVEAMESSAGE" = "LEAVE A MESSAGE";
+
+"Name" = "Name";
+
+"Phone" = "Phone";
+
+"Email" = "Email";
+
+"YourMessageHere" = "Your Message Here";
+
+"SEND" = "SEND";
+
+"RESETPASSWORD" = "RESET PASSWORD";
+
+"Enter your E-Mail" = "Enter your E-Mail";
+
+"CALCULATOR" = "CALCULATOR";
+
+"LoanType" = "Loan Type";
+
+"LoanPeriod" = "Loan Period ( Years )";
+
+"IncomeType" = "Income Type";
+
+"NetIncome" = "Net income ( Monthly )";
+
+"LoanAmount" = "Loan Amount ( 00,000,000 )";
+
+"CALCULAT" = "CALCULAT";
+
+"CALCULATORDETAILS" = "CALCULATOR DETAILS";
+
+"REQUESTHISTORY" = "REQUEST HISTORY";
+
+"DELETEREQUEST" =  "DELETE REQUEST";
+
+"MassageRequest" = "Are You Sure You Want to\nDelete this Request";
+
+"CREATEACCOUNT" = "CREATE ACCOUNT";
+
+"REQUESTID" = "REQUEST ID : ";
+
+"REQUESTSTATUS" = "REQUEST STATUS : ";
+
+"NOTE" = "NOTE : ";
+
+"This request cannot be modified" = "This request cannot be modified";
+
+"PRODUCTINTERESTED" = "PRODUCT INTERESTED : ";
+
+"COMMENTS" = "COMMENTS : ";
+
+"RESPONSETIME" = "RESPONSE TIME : ";
+
+"MONTHLYINCOME" = "MONTHLY INCOME : ";
+
+"AMOUNT" = "AMOUNT : ";
+
+"MYjOB"  = "MY jOB : ";
+
+"ISLAMIC" = "IS LAMIC : ";
+
+"Yes" = "Yes";
+
+"No" = "No" ;
+
+"PREFERREDBANK" = "PREFERRED BANK : ";
+
+"PasswordConfirm" = "Password Confirm";
+
+"IDNo" = "ID No.";
+
+"FrontID" = "Front ID";
+
+"BackID" = "Back ID";
+
+"AcceptAgreement" = "I Accept User Agreement.";
+
+"Preferred Bank/Company" = "Preferred Bank/Company";
+
+"AGREEMENT" = "AGREEMENT";
+
+"NewMessage" = "You've Received a New Message";
+
+"MessageRead" = "Message has been read";
+
+"NOTIFICATIONS" = "NOTIFICATIONS";
+
+"DELETENOTIFICATION" = "DELETE NOTIFICATION";
+
+"MassageNotification"  = "Are You Sure You Want to\nDelete this Notification";
+
+"VERFICIATION" = "VERIFICATION CODE";
+
+"ResendCode" = "Resend Code";
+
+"Wait" = "Wait";
+
+"ResendSMS" = "Secs to Resend SMS";
+
+"PERSONAL" = "PERSONAL";
+
+"insurance" = "INSURANCE";
+ 
+"SME&MICRO" = "SME & MICRO";
+
+"SMALLBUSINESS" = "SMALL\nBUSINESS LOAN";
+
+"SMALLBUSINESSOWNER" = "SMALL\nBUSINESS\nOWNER\nLOAN";
+
+"WORKINGCAPITALFINANCE" = "WORKING\nCAPITAL\nFINANCE";
+
+"Other" = "OTHER";
+
+"AccidentHealth" ="ACCIDENT &\nHEALTH";
+
+"Medical" = "MEDICAL";
+
+"Cars" = "CARS";
+
+"life" = "LIFE";
+
+"FirePropertyInsurance" = "FIRE &\nPROPERTY\nINSURANCE";
+
+"marinetransport" = "MARINE &\nTRANSPORT";
+
+"SavingsNvestments" = "SAVINGS &\nNVESTMENTS";
+
+"CASHLOAN" = "CASH LOAN";
+
+"NEWCARLOAN" = "NEW CAR\nLOAN";
+
+"USEDCARLOAN" = "USED CAR\nLOAN";
+
+"REALESTATELOAN" = "REAL ESTATE\nLOAN";
+
+"WEDDINGDAY" =  "WEDDING\nDAY";
+
+"REALESTATEFINISHINGS" = "REAL ESTATE\nFINISHINGS";
+
+"MEDICALSERVICES" = "MEDICAL\nSERVICES";
+
+"TOURISMAIRLINETICKETS" = "TOURISM &\nAIRLINE TICKETS";
+
+"DOCTORLOAN" = "DOCTOR\nLOAN";
+
+"CLUBMEMBERSHIP" = "CLUB\nMEMBERSHIP";
+
+"EDUCATIONLOAN" = "EDUCATION\nLOAN";
+
+"DURABLEGOODS" = "DURABLE\nGOODS";
+
+"CREDITCARDS" = "CREDIT CARDS\n& SMART \nWATCHES";
+
+"OVERDRAFT" = "OVERDRAFT";
+
+"ADDREQUEST" = "ADD REQUEST";
+
+"UPDATEREQUEST" = "UPDATE REQUEST";
+
+"EMPLOYMENTTYPE" = "EMPLOYMENT TYPE : ";
+
+"EmploymentType" = "Employment Type*";
+
+"MonthlyIncome" = "Monthly Income*";
+
+"RequestedAmount" = "Requested Amount *";
+
+"REQUESTEDAMOUNT" = "REQUESTED AMOUNT : ";
+
+"CoverageAmount" = "Coverage Amount*";
+
+"COVERAGEAMOUNT" = "COVERAGE AMOUNT : ";
+
+"PREFERREDCOMPANY" = "PREFERRED COMPANY : ";
+
+"PreferredCompany" = "Preferred Company";
+
+"MobadraType" = "Mobadra Type";
+
+"MOBADRATYPE" = "MOBADRA TYPE : ";
+
+"Islamic" = "Islamic?";
+
+"StartUp" = "Start up?";
+
+"STARTUP" = "START UP : ";
+
+"Corporate" = "Corporate?";
+
+"CORPORATE" = "CORPORATE : ";
+
+"ServiceType" = "Service Type?";
+
+"SERVICETYPE" = "SERVICE TYPE : ";
+
+"Legal" = "Legal";
+
+"Financial" = "Financial";
+
+"UploadFiles" = "UPLOAD FILES";
+
+"Comments" = "Comments";
+
+"INTERESTEDIN" = "INTERESTED IN : ";
+
+"ProductInterestedIn" = "Product Interested In*";
+
+"OtherProductsInterestedIn" = "Other Products Interested In";
+
+"NEWS" = "NEWS";
+
+"UPDATES" = "UPDATES";
+
+"SUBMIT" = "SUBMIT";
+
+"IAgreeTo" = "I agree to ";
+
+"UserAgreement" = "User Agreement";
+
+"E-mail*" = "E-mail*";
+
+"FullName" = "Full Name*";
+
+"MobileNo" = "Mobile No*";
+
+"E-MAIL" = "E-MAIL : ";
+
+"FULLNAME" = "FULL NAME : ";
+
+"MOBILENO" = "MOBILE NO : ";
+
+"BRIEF" = "BRIEF : ";
+
+"ProjectBrief" = "Project Brief*";
+
+"InvestmentAmount" = "Investment Amount*";
+
+"INVESTMENTAMOUNT" = "INVESTMENT AMOUNT : ";
+
+"RequestedInvestmentAmount" = "Requested Investment Amount*";
+
+"Provider" = "Provider  :";
+
+"About" = "About  :";
+
+"Required" = "Required  :";
+
+"Agreement" = "Agreement  :";
+
+"Rating" = "Rating  :";
+
+"ExpectedDay" = "ExpectedDay  :";
+
+"LoanMax" = "LoanMax  :";
+
+"LoanMin" = "LoanMin  :";
+
+"INVESTOR" = "INVESTOR";
+
+"PARTNERSHIPAPPLICANT" = "PARTNERSHIP\nAPPLICANT";
+
+"Partnership" = "Partnership*";
+
+"PARTNERSHIP" = "PARTNERSHIP : ";
+
+"InvestmentBudget" = "Investment Budget*";
+
+"INVESTMENTBUDGET" = "INVESTMENT BUDGET : ";
+
+"Investment interested in" = "Investment interested in*";
+
+"ACQUISITIONAPPLICANT" = "ACQUISITION\nAPPLICANT";
+
+"SERVICES" = "SERVICES";
+
+"PRODUCTS" = "PRODUCTS";
+
+"I-SCORE" = "I-SCORE";
+
+"LENGTHOFBUSINESS" = "LENGTH OF BUSINESS : ";
+
+"LengthOfBusiness" = "Length of Business";
+
+"LengthOfBusiness*" = "Length of Business*";
+
+"Products Interested in the Future" = "Products Interested in the Future";
+
+"POS" = "POS";
+
+"ACCOUNTS&DEPOSIT" = "ACCOUNTS \n& DEPOSIT";
+
+"INSURANCEPOLICY" = "INSURANCE \nPOLICY";
+
+"LEGALFINANCIALCONSULTANT" = "LEGAL & FINANCIAL\nCONSULTANT";
+
+"Save" = "Save";
+
+"*Salary" = "*Salary";
+
+"*Utility Bill" = "*Utility Bill";
+
+"*Bank Statement" = "*Bank Statement";
+
+"*HR Letter / Self Employed" = "*HR Letter / Self Employed";
+
+"UploadImage" = "UPLOAD IMAGE";
+
+"ErrorLogIn" = "Please come back to log in";
+
+"PHOTOLIBRARY" = "PHOTO LIBRARY";
+
+"ErrorOldPassword" = "The Old Password number entered is invalid";
+
+"SavedSuccessfully" = "Saved Successfully";
+
+"PleaseCheckYourEmail" = "Please check your email\nTo change your password";
+
+"FillInInformationCorrectly" = "Please fill in the information correctly";
+
+"ErrorEmail" = "Please enter your email properly";
+
+"ErrorPhone" = "The phone number is wrong";
+
+"PhoneNumberIsUsed" = "The phone number is already in use";
+
+"ErrorUserAgreement" = "Please accept the user agreement";
+
+"ErrorFirstAndLastName" = "Please enter your first name and last name";
+
+"ErrorPasswordCorrectly" = "Please enter the password correctly";
+
+"EmailIsUsed" = "This email is already in use";
+
+"ErrorVerification" = "The verification number entered is invalid";
+
+"NoChanges" = "There is no change in the data";
+
+"ErrorNetIncome" = "The monthly income is greater than the allowable ?";
+
+"ErrorLoanAmount" = "The loan amount is greater than the allowable amount ?";
+
+"ErrorID" = "Please enter the ID number correctly";
+
+"Mobadra" = "A wide range of personal finance programs that meet most customer needs, in line with your income and needs.";
+
+"Legal & Financial Consultant" = "A wide range of legal & financial programs that meet most customer needs, in line with your income and needs.";
+
+"PartnershipApplicant" = "A wide range of investment programs that meet most customer needs, in line with your income and needs.";
+
+"ErrorFiles" = "Sorry, the file is too large";
+
+"Select your country" = "Select your country";
+
+
+///  StatusCodes
+ 
+"No Content" = "No Content";
+
+"Bad Request" = "Bad Request";
+
+"Unauthorized" = "Unauthorized";
+
+"Not Found" = "Not Found";
+
+"ErrorLogIn" = "You must log in first Do you support going to the login screen";
